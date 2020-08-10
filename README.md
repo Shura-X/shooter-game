@@ -1,5 +1,5 @@
 # shooter-game
-This is one of my projects to polish my JS-skills. But it is still playable game to spend some time.
+This is one of my projects to polish my JS-skills. But it is still a playable game to spend some time.
 
 ## Installation
 This project works in browser environment. But staic server is required to run the module system.
